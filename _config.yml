@@ -6,16 +6,29 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Florian Biermann
+email: fbie@itu.dk
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+
+	Hi, my name is Florian, I am a PhD student at the
+	[IT University of Copenhagen](http://itu.dk). My project focuses
+	on parallel and functional programming in spreadsheets as part of
+	the
+	[Popular Parallel Programming project](https://itu.dk/people/sestoft/p3). My
+	principal supervisor is
+	[Professor Peter Sestoft](https://itu.dk/people/sestoft). My
+	secondary superviser is [Yu Zhang](http://lcs.ios.ac.cn/~yzhang)
+	from the
+	[Institute of Software at the Chinese Academy of Sciences](http://lcs.ios.ac.cn). I
+	am fundet by the
+	[Sino-Danish Center for Education and Research](http://sinodanishcenter.com).
+
+	You can download my public key [here](fbie_pubkey.asc).
+
+baseurl: "people/fbie" # the subpath of your site, e.g. /blog
+url: "http://itu.dk" # the base hostname & protocol for your site
+twitter_username: florianbier
+github_username:  fbie
 
 # Build settings
 markdown: kramdown
