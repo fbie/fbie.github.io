@@ -40,10 +40,12 @@ Automated Malaria Diagnosis](files/morphological_segmentation_malaria.pdf).
 
 - Visit me on [GitHub](https://github.com/fbie) and [BitBucket](https://bitbucket.org/fbie).
 
-- Visit the [Bloop Website]() and check out the video of the presentation
-at [BlenderCon 2011]().
+- Visit the [Bloop Website](http://dm.tzi.de/bloop/) and check out the
+video of the presentation at
+[BlenderCon 2011](https://www.youtube.com/watch?v=Uwm57iTytZs).
 
-- Check out my ["World to (H)ear"]() project.
+- Check out my ["World to (H)ear"](https://vimeo.com/13737427)
+project.
 
 
 ## Publications ##
