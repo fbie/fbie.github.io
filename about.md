@@ -17,7 +17,7 @@ principal supervisor is
 [Professor Peter Sestoft](https://itu.dk/people/sestoft). My secondary
 superviser is [Yu Zhang](http://lcs.ios.ac.cn/~yzhang) from the
 [Institute of Software at the Chinese Academy of Sciences](http://lcs.ios.ac.cn). I
-am fundet by the
+am funded by the
 [Sino-Danish Center for Education and Research](http://sinodanishcenter.com).
 
 You can download my public key [here](files/fbie_pubkey.asc).
@@ -35,7 +35,7 @@ Automated Malaria Diagnosis](files/morphological_segmentation_malaria.pdf).
   Vegas and showcased in Lego stores in Copenhagen and Frankfurt. See
   the [ITU research video](IT University of Copenhagen).
 
-- Visit mea on [CiteULike](http://citeulike.org/user/fbie), which is a
+- Visit me on [CiteULike](http://citeulike.org/user/fbie) which is a
   really nice and free tool to manage literature.
 
 - Visit me on [GitHub](https://github.com/fbie) and [BitBucket](https://bitbucket.org/fbie).
