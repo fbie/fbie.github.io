@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Florian Biermann
+title: Florian's Blog
 email: fbie@itu.dk
 description: > # this means to ignore newlines until "baseurl:"
- Hi, my name is Florian, I am a PhD student at the IT University of
- Copenhagen and I work on parallel and functional programming in
- spreadsheets as part of the Popular Parallel Programming project. I
- am fundet by the Sino-Danish Center for Education and Research.
+ Hi, my name is Florian Biermann, I am a PhD student at the IT
+ University of Copenhagen and I work on parallel and functional
+ programming in spreadsheets. This blog is about my project,
+ programming, China, Emacs and food.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://itu.dk/people/fbie" # the base hostname & protocol for your site
 twitter_username: florianbier
