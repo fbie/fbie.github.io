@@ -75,7 +75,7 @@ demand also the full text from the corresponding web site, if
 available.
 
 Currently, you need to open the BibTeX file you want to process with
-SLIRM in Emacs and then run ```slirm-start``` from within the
+SLIRM in Emacs and then run ```M-x slirm-start``` from within the
 buffer. You'll be shown the first entry not yet reviewed by you. You
 can add your review by pressing ```SPC``` or navigate back and forth
 between entries by pressing ```n``` or ```p``` for next and
