@@ -40,6 +40,8 @@ Automated Malaria Diagnosis](files/morphological_segmentation_malaria.pdf).
 
 - Visit me on [GitHub](https://github.com/fbie) and [BitBucket](https://bitbucket.org/fbie).
 
+- Visit my [Orcid profile](http://orcid.org/0000-0002-5814-3202).
+
 - Visit the [Bloop Website](http://dm.tzi.de/bloop/) and check out the
 video of the presentation at
 [BlenderCon 2011](https://www.youtube.com/watch?v=Uwm57iTytZs).
