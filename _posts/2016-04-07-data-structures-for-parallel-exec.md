@@ -1,6 +1,6 @@
 ---
 title: Guy Steele on Parallel Execution of Functional Code
-type: post
+layout: post
 ---
 
 Last week I came across a talk from ICFP 2009 by Guy Steele of Sun Microsystems. He argues for using trees instead of linear, ```cons``` style data structures because trees are directly parallelizable. He also argues for high-level operations to abstract away the underlying micro-optimizations. The Fortress language illustrates this greatly, where all bulk-operations can conveniently be implemented using "big Sigma" style notations and array comprehensions.
