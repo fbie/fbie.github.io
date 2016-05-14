@@ -7,7 +7,7 @@ Last week I came across a talk from ICFP 2009 by Guy Steele of Sun Microsystems.
 
 In Funcalc, there is no way to express such micro-optimizations in the first place (writing to the same memory location instead of passing values via the stack etc.), so the spirit of the talk fits well to my project.
 
-Even though this talk is from seven years ago, I feel that this hasn't really arrived in many peoples mindsets. It's a great motivation for my own work, so I'll just post it here.
+Even though this talk is already seven years old, I feel that this hasn't really arrived in many people's mindsets. It's a great motivation for my own work, so I'll just post it here.
 
 - [The talk on Vimeo](https://vimeo.com/6624203)
 - [Reference on ACM](http://dl.acm.org/citation.cfm?doid=1596550.1596551)
