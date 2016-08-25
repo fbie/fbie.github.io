@@ -38,6 +38,8 @@ The results of my PhD project do not only apply to spreadsheets but may be inter
 
 ## Things I did and do ##
 
+- I have written a small Emacs mode for systematic literature reviews on BibTex files called [SLIRM](https://github.com/fbie/slirm).
+
 - Read my thesis [Connected Set Filtering on Shared Memory Multicore
 Processors](https://itu.dk/people/fbie/thesis.pdf).
 
