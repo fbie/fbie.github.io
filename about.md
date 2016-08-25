@@ -68,6 +68,13 @@ project.
 
 ## Publications ##
 
+- Hansen, J. P., Lund, H., *Biermann, F.* , Møllenbach, E., Sztuk, S.,
+  and San Agustin, J., 2016. **Wrist-worn pervasive gaze
+  interaction**. In: Proceedings of the Ninth Biennial ACM Symposium
+  on Eye Tracking Research & Applications (ETRA '16). ACM, New York,
+  NY, USA, pp. 57-64. URL
+  [http://dx.doi.org/10.1145/2857491.2857514]()
+
 - Hansen, J. P., *Biermann, F.*, Madsen, J. A., Jonassen, M., Lund,
   H., San Agustin, J., Sztuk, S., 2015. **A gaze interactive textual
   smartwatch interface.** In: Proceedings of the 2015 ACM
