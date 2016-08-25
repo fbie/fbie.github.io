@@ -22,7 +22,7 @@ am funded by the
 
 Before that I have been working part-time as a programmer at [Medical Insight](http://www.medical-insight.com/) (now part of Karos Health) and in the [PitLab](http://pitlab.itu.dk/) at ITU as a research assistant for [Prof. John Paulin Hansen](https://www.linkedin.com/in/johnpaulinhansen) (who is now at DTU).
 
-You can download my public key [here](files/fbie_pubkey.asc).
+You can download my public key [here](https://itu.dk/people/fbie/fbie_pubkey.asc).
 
 ## My PhD Project ##
 
@@ -39,10 +39,10 @@ The results of my PhD project do not only apply to spreadsheets but may be inter
 ## Things I did and do ##
 
 - Read my thesis [Connected Set Filtering on Shared Memory Multicore
-Processors](files/thesis.pdf).
+Processors](https://itu.dk/people/fbie/thesis.pdf).
 
 - Read my project [Morphological Segmentation of Blood Images for
-Automated Malaria Diagnosis](files/morphological_segmentation_malaria.pdf).
+Automated Malaria Diagnosis](https://itu.dk/people/fbie/morphological_segmentation_malaria.pdf).
 
 - I programmed the first version of the gaze-controller Lego
   construction manual for children. It was featured on CES 2015 in Las
