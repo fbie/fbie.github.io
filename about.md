@@ -22,6 +22,18 @@ am funded by the
 
 You can download my public key [here](files/fbie_pubkey.asc).
 
+## My PhD Project ##
+
+In my PhD project I work on the spreadsheet language [Funcalc](http://www.itu.dk/people/sestoft/funcalc/). My goal is to give spreadsheet users access to the parallel capabilities of their computing hardware without adding complex controlling structures.
+
+Spreadsheets can be seen as declarative and purely-functional programs that are laid out in a two-dimensional grid. The overall idea is to use *higher-order functions*, that is functions that either accept other functions as arguments or produce a function as a result, on contiguous spreadsheet cells, so-called *cell arrays*. Computations on arrays occur often in scientific and financial computations. Many higher-order functions on arrays perform homogeneous computations; the same function is applied to every cells.
+
+Higher-order functions enable *data-parallelism*. In a purely-functional language, such as Funcalc, we know in advance that there is no interdependency between single cells of an array. Therefore, it is safe to parallelize certain computations on arrays transparently to the user. Their program will run faster without them having to do anything.
+
+Furthermore, I am interested in making array programming easier for non-programmers by finding representations of arrays that cater to straightforward and simple programming solutions.
+
+The results of my PhD project do not only apply to spreadsheets but may be interesting for other high-level programming languages such as the [R language](https://www.r-project.org/), [Matlab](http://www.mathworks.com/products/matlab/) or [F#](http://fsharp.org/).
+
 ## Things I did and do ##
 
 - Read my thesis [Connected Set Filtering on Shared Memory Multicore
