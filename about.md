@@ -72,28 +72,16 @@ project.
 
 - Hansen, J. P., Lund, H., *Biermann, F.* , Møllenbach, E., Sztuk, S.,
   and San Agustin, J., 2016. **Wrist-worn pervasive gaze
-  interaction**. In: Proceedings of the Ninth Biennial ACM Symposium
-  on Eye Tracking Research & Applications (ETRA '16). ACM, New York,
-  NY, USA, pp. 57-64. URL
-  [http://dx.doi.org/10.1145/2857491.2857514]()
+  interaction**. ETRA '16. [http://dx.doi.org/10.1145/2857491.2857514]()
 
 - Hansen, J. P., *Biermann, F.*, Madsen, J. A., Jonassen, M., Lund,
   H., San Agustin, J., Sztuk, S., 2015. **A gaze interactive textual
-  smartwatch interface.** In: Proceedings of the 2015 ACM
-  International Joint Conference on Pervasive and Ubiquitous Computing
-  and Proceedings of the 2015 ACM International Symposium on Wearable
-  Computers. UbiComp '15. ACM, New York, NY, USA, pp. 839-847. URL
-  [http://dx.doi.org/10.1145/2800835.2804332]()
+  smartwatch interface.** UbiComp '15. [http://dx.doi.org/10.1145/2800835.2804332]()
 
 - Hansen, J. P., *Biermann, F.*, M&oslash;llenbach, E., Lund, H., San
-  Agustin, J., Sztuk, S., 2015. **A GazeWatch prototype.** In:
-  Proceedings of the 17th International Conference on Human-Computer
-  Interaction with Mobile Devices and Services Adjunct. MobileHCI
-  '15. ACM, New York, NY, USA, pp. 615-621. URL
-  [http://dx.doi.org/10.1145/2786567.2792899]()
+  Agustin, J., Sztuk, S., 2015. **A GazeWatch prototype.** MobileHCI
+  '15. [http://dx.doi.org/10.1145/2786567.2792899]()
 
 - Walther-Franks, B., *Biermann, F.*, Steenbergen, N., Malaka,
   R., 2012. **The animation loop station: Near real-time animation
-  production.** In: International Conference on Entertainment
-  Computing (ICEC). Springer. URL
-  [http://dx.doi.org/10.1007/978-3-642-33542-6_55]()
+  production.** ICEC '12. [http://dx.doi.org/10.1007/978-3-642-33542-6_55]()
