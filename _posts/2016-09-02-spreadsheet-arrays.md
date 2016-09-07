@@ -7,7 +7,7 @@ layout: post
 
 During my stay at the Institute of Software at the Chinese Academy of Sciences (CAS) in Beijing, I met Wensheng Dou, who is working on analysis of errors and "smells" in spreadsheets. He has given me access to his research and his most recent paper ["CACheck: Detecting and Repairing Cell Arrays in Spreadsheets"](dx.doi.org/10.1145/1117389.1117401) makes some very interesting observations about usage of array-like computations in spreadsheets.
 
-Dou et al. investigated how arrays are used in the EUSES and Enron spreadsheet corpora, and found that 55.1% of all the spreadsheets use *well-formed* cell arrays (they define well-formedness of cell arrays in their paper). This is an interesting finding, because if half of all spreadsheet use cell arrays in some way, my work on spreadsheet array programming is well motivated.
+Dou et al. investigated how arrays are used in the EUSES and Enron spreadsheet corpora, and found that 55.1% of all the spreadsheets use *well-formed* cell arrays (they define well-formedness of cell arrays in their paper). This is an interesting finding, because if half of all spreadsheet use cell arrays in some way, my work on spreadsheet array programming is well motivated. Furthermore, they observe that the EUSES and Enron spreadsheet corpora independently from each other have comparable percentages of inhomogeneous cell arrays.
 
 What is a cell array? Dou et al.'s definition (slightly simplified and paraphrased) is that a cell array is a row or column of contiguous cells that have the same semantics, never mind the syntax. This leaves out two-dimensional arrays (which are still counted as individual column or row cell arrays).
 
