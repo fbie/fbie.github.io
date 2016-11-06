@@ -25,7 +25,7 @@ If the weather is nice and the pollution low, go and have great craft beer at th
 
 # Get Coffee at Voyage Coffee #
 
-My local coffee dealer in [Beiluoguxiang](). Nice little hutong café where people spend hours taking selfies, rearranging the furniture if need be, to optimize the lighting. Incredibly nice staff and the only place where I managed to buy (actually _really_ nice) coffee beans for making coffee at home in the morning.
+My local coffee dealer in [Beiluoguxiang](https://goo.gl/maps/VkTL4S5WQJw). Nice little hutong café where people spend hours taking selfies, rearranging the furniture if need be, to optimize the lighting. Incredibly nice staff and the only place where I managed to buy (actually _really_ nice) coffee beans for making coffee at home in the morning.
 
 # Mr Shi's Dumplings #
 
