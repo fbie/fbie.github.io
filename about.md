@@ -8,7 +8,7 @@ My name is Florian Biermann and I studied [Digital Media](http://digitalmedia-br
 [University of Bremen](http://uni-bremen.de/), Graphics Design at the
 [Art Institute of Boston at Lesley University](http://www.lesley.edu/college-art-and-design/)
 and Software Development and Technology at the
-[IT University of Copenhagen](https://itu.dk).
+[IT University of Copenhagen](https://itu.dk). My Chinese name is 罗恩.
 
 As of July 2015 I am working as a PhD student on spreadsheet array
 programming as part of the
