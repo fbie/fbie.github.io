@@ -70,6 +70,10 @@ project.
 
 ## Publications ##
 
+- *Biermann, F.* and Sestoft, P., 2016. **Quad Ropes: Immutable,
+  Declarative Arrays with Parallelizable Operations**. ARRAY'17 (to
+  appear). [http://itu.dk/people/fbie/array17-quad-ropes-camera-ready.pdf]()
+
 - Hansen, J. P., Lund, H., *Biermann, F.* , Møllenbach, E., Sztuk, S.,
   and San Agustin, J., 2016. **Wrist-worn pervasive gaze
   interaction**. ETRA '16. [http://dx.doi.org/10.1145/2857491.2857514]()
