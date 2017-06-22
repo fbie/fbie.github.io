@@ -70,22 +70,21 @@ project.
 
 ## Publications ##
 
-- *Biermann, F.* and Sestoft, P., 2016. **Quad Ropes: Immutable,
-  Declarative Arrays with Parallelizable Operations**. ARRAY'17 (to
-  appear). [http://itu.dk/people/fbie/array17-quad-ropes-camera-ready.pdf]()
+- *Biermann, F.* and Sestoft, P., 2016. **[Quad Ropes: Immutable,
+  Declarative Arrays with Parallelizable Operations](http://dl.acm.org/citation.cfm?id=3091971)**. ARRAY'17.
 
 - Hansen, J. P., Lund, H., *Biermann, F.* , Møllenbach, E., Sztuk, S.,
-  and San Agustin, J., 2016. **Wrist-worn pervasive gaze
-  interaction**. ETRA '16. [http://dx.doi.org/10.1145/2857491.2857514]()
+  and San Agustin, J., 2016. **[Wrist-worn Pervasive Gaze
+  Interaction](http://dx.doi.org/10.1145/2857491.2857514)**. ETRA '16.
 
 - Hansen, J. P., *Biermann, F.*, Madsen, J. A., Jonassen, M., Lund,
-  H., San Agustin, J., Sztuk, S., 2015. **A gaze interactive textual
-  smartwatch interface.** UbiComp '15. [http://dx.doi.org/10.1145/2800835.2804332]()
+  H., San Agustin, J., Sztuk, S., 2015. **[A Gaze Interactive Textual
+  Smartwatch Interface.](http://dx.doi.org/10.1145/2800835.2804332)** UbiComp '15.
 
 - Hansen, J. P., *Biermann, F.*, M&oslash;llenbach, E., Lund, H., San
-  Agustin, J., Sztuk, S., 2015. **A GazeWatch prototype.** MobileHCI
-  '15. [http://dx.doi.org/10.1145/2786567.2792899]()
+  Agustin, J., Sztuk, S., 2015. **[A GazeWatch Pototype.](http://dx.doi.org/10.1145/2786567.2792899)** MobileHCI
+  '15.
 
 - Walther-Franks, B., *Biermann, F.*, Steenbergen, N., Malaka,
-  R., 2012. **The animation loop station: Near real-time animation
-  production.** ICEC '12. [http://dx.doi.org/10.1007/978-3-642-33542-6_55]()
+  R., 2012. **[The Animation Loop Station: Near Real-Time Animation
+  Production.](http://dx.doi.org/10.1007/978-3-642-33542-6_55)** ICEC '12.
