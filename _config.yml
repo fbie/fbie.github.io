@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
  University of Copenhagen and I work on parallel and functional
  programming in spreadsheets. This blog is about my project,
  programming, China, Emacs and food.
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://itu.dk/people/fbie" # the base hostname & protocol for your site
 twitter_username: florianbier
 github_username:  fbie
