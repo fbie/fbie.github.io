@@ -6,11 +6,12 @@ permalink: /about/
 
 My name is Florian Biermann and I studied [Digital Media](http://digitalmedia-bremen.de/en) at the [University of Bremen](http://uni-bremen.de/), Graphics Design at the [Art Institute of Boston at Lesley University](http://www.lesley.edu/college-art-and-design/) and Software Development and Technology at the [IT University of Copenhagen](https://itu.dk).  My Chinese name is 罗恩.
 
-As of July 2015 I am working as a PhD student on spreadsheet array programming as part of the [Popular Parallel Programming project](https://itu.dk/people/sestoft/p3).  My supervisor is [Prof. Peter Sestoft](https://itu.dk/people/sestoft).   I am funded by the [Sino-Danish Center for Education and Research](http://sinodanishcenter.com).
+As of July 2015 I am working as a PhD student on spreadsheet array programming as part of the [Popular Parallel Programming project](https://itu.dk/people/sestoft/p3).  My supervisor is [Prof. Peter Sestoft](https://itu.dk/people/sestoft).  I am funded by the [Sino-Danish Center for Education and Research](http://sinodanishcenter.com).
 
 Before that I have been working part-time as a programmer at [Medical Insight](http://www.medical-insight.com/) (now part of Karos Health) and in the [PitLab](http://pitlab.itu.dk/) at ITU as a research assistant for [Prof. John Paulin Hansen](https://www.linkedin.com/in/johnpaulinhansen) (who is now at DTU).
 
 You can download my public key [here](https://itu.dk/people/fbie/fbie_pubkey.asc).
+
 
 ## My PhD Project ##
 
@@ -23,6 +24,7 @@ Higher-order functions enable *data-parallelism*.  In a purely-functional langua
 Furthermore, I am interested in making array programming easier for non-programmers by finding representations of arrays that cater to straightforward and simple programming solutions.
 
 The results of my PhD project do not only apply to spreadsheets but may be interesting for other high-level programming languages such as the [R language](https://www.r-project.org/), [Matlab](http://www.mathworks.com/products/matlab/) or [F#](http://fsharp.org/).
+
 
 ## Things I did and do ##
 
