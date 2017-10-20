@@ -70,21 +70,14 @@ project.
 
 ## Publications ##
 
-- *Biermann, F.* and Sestoft, P., 2016. **[Quad Ropes: Immutable,
-  Declarative Arrays with Parallelizable Operations](http://dl.acm.org/citation.cfm?id=3091971)**. ARRAY'17.
+- *Florian Biermann*, Wensheng Dou and Peter Sestoft. **[Rewriting High-Level Spreadsheet Structures into Higher-Order Functional Programs]()**. PADL'18.
 
-- Hansen, J. P., Lund, H., *Biermann, F.* , Møllenbach, E., Sztuk, S.,
-  and San Agustin, J., 2016. **[Wrist-worn Pervasive Gaze
-  Interaction](http://dx.doi.org/10.1145/2857491.2857514)**. ETRA '16.
+- *Florian Biermann* and Peter Sestoft. **[Quad Ropes: Immutable, Declarative Arrays with Parallelizable Operations](http://dl.acm.org/citation.cfm?id=3091971)**. ARRAY'17.
 
-- Hansen, J. P., *Biermann, F.*, Madsen, J. A., Jonassen, M., Lund,
-  H., San Agustin, J., Sztuk, S., 2015. **[A Gaze Interactive Textual
-  Smartwatch Interface.](http://dx.doi.org/10.1145/2800835.2804332)** UbiComp '15.
+- John Paulin Hansen, Haakon Lund, *Florian Biermann* , Emilie Møllenbach, Sebastian Sztuk and Javier San Agustin. **[Wrist-worn Pervasive Gaze Interaction](http://dx.doi.org/10.1145/2857491.2857514)**. ETRA '16.
 
-- Hansen, J. P., *Biermann, F.*, M&oslash;llenbach, E., Lund, H., San
-  Agustin, J., Sztuk, S., 2015. **[A GazeWatch Pototype.](http://dx.doi.org/10.1145/2786567.2792899)** MobileHCI
-  '15.
+- John Paulin Hansen, *Florian Biermann*, Janus Aksø Madsen, Morten Jonassen, Haakon Lund, Javier San Agustin and Sebastian Sztuk. **[A Gaze Interactive Textual Smartwatch Interface](http://dx.doi.org/10.1145/2800835.2804332)**. UbiComp '15.
 
-- Walther-Franks, B., *Biermann, F.*, Steenbergen, N., Malaka,
-  R., 2012. **[The Animation Loop Station: Near Real-Time Animation
-  Production.](http://dx.doi.org/10.1007/978-3-642-33542-6_55)** ICEC '12.
+- John Paulin Hansen, *Florian Biermann*, Emilie Møllenbach, Haakon Lund, Javier San Agustin, Sebastian Sztuk. **[A GazeWatch Pototype](http://dx.doi.org/10.1145/2786567.2792899)**. MobileHCI 15.
+
+- Benjamin Walther-Franks, *Florian Biermann*, Nikolaas Steenbergen and Rainer Malaka. **[The Animation Loop Station: Near Real-Time Animation Production](http://dx.doi.org/10.1007/978-3-642-33542-6_55)**. ICEC '12.
