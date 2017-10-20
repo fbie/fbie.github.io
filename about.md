@@ -38,7 +38,7 @@ The results of my PhD project do not only apply to spreadsheets but may be inter
 
 - Read my project [Morphological Segmentation of Blood Images for Automated Malaria Diagnosis](https://itu.dk/people/fbie/morphological_segmentation_malaria.pdf).
 
-- I programmed the first version of the gaze-controller Lego construction manual for children.  It was featured on [CES 2015 in Las Vegas](CES 2015 in Las Vegas) and showcased in Lego stores in Copenhagen and Frankfurt.  See the [ITU research video](https://www.youtube.com/watch?v=vLMaMqkISR0).
+- I programmed the first version of the gaze-controller Lego construction manual for children.  It was featured on [CES 2015 in Las Vegas](https://www.youtube.com/watch?v=WgpbtsK7a88) and showcased in Lego stores in Copenhagen and Frankfurt.  See the [ITU research video](https://www.youtube.com/watch?v=vLMaMqkISR0).
 
 - Visit me on [CiteULike](http://citeulike.org/user/fbie) which is a really nice and free tool to manage literature.
 
