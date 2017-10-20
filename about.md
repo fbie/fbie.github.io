@@ -28,6 +28,8 @@ The results of my PhD project do not only apply to spreadsheets but may be inter
 
 ## Things I did and do ##
 
+- I worked as TA for the Practical Concurrent and Parallel Programming Course at ITU in [Fall 2014](http://www.itu.dk/people/sestoft/itu/PCPP/E2014/), [Fall 2015](http://www.itu.dk/people/sestoft/itu/PCPP/E2015/) and [Fall 2017](http://itu.dk/people/rikj/PCPP2017/).
+
 - In summer semester 2016, I gave three lectures on parallel functional programming in Racket and Java 8 at UCAS for students without prior functional programming experience.  My lectures where part of a course on functional programming taught by [Yu ZHANG](http://lcs.ios.ac.cn/~yzhang).  Take a look at the [course material](https://github.com/fbie/parallel-functional-lectures).
 
 - I have written a small Emacs mode for systematic literature reviews on BibTex files called [SLIRM](https://github.com/fbie/slirm).
