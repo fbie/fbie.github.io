@@ -10,15 +10,7 @@ My name is Florian Biermann and I studied [Digital Media](http://digitalmedia-br
 and Software Development and Technology at the
 [IT University of Copenhagen](https://itu.dk). My Chinese name is 罗恩.
 
-As of July 2015 I am working as a PhD student on spreadsheet array
-programming as part of the
-[Popular Parallel Programming project](https://itu.dk/people/sestoft/p3). My
-principal supervisor is
-[Prof. Peter Sestoft](https://itu.dk/people/sestoft). My secondary
-supervisor is [Yu ZHANG](http://lcs.ios.ac.cn/~yzhang) from the
-[Institute of Software at the Chinese Academy of Sciences](http://lcs.ios.ac.cn). I
-am funded by the
-[Sino-Danish Center for Education and Research](http://sinodanishcenter.com).
+As of July 2015 I am working as a PhD student on spreadsheet array programming as part of the [Popular Parallel Programming project](https://itu.dk/people/sestoft/p3). My supervisor is [Prof. Peter Sestoft](https://itu.dk/people/sestoft).  I am funded by the [Sino-Danish Center for Education and Research](http://sinodanishcenter.com).
 
 Before that I have been working part-time as a programmer at [Medical Insight](http://www.medical-insight.com/) (now part of Karos Health) and in the [PitLab](http://pitlab.itu.dk/) at ITU as a research assistant for [Prof. John Paulin Hansen](https://www.linkedin.com/in/johnpaulinhansen) (who is now at DTU).
 
