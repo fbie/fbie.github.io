@@ -53,7 +53,7 @@ The results of my PhD project do not only apply to spreadsheets but may be inter
 
 ## Publications ##
 
--   **[Rewriting High-Level Spreadsheet Structures into Higher-Order Functional Programs]()**.
+-   **[Rewriting High-Level Spreadsheet Structures into Higher-Order Functional Programs](https://doi.org/10.1007/978-3-319-73305-0_2)**.
     *Florian Biermann*, Wensheng Dou and Peter Sestoft.
     PADL'18
 
