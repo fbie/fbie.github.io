@@ -28,15 +28,17 @@ The results of my PhD project do not only apply to spreadsheets but may be inter
 
 ## Things I did and do ##
 
+- During March and April 2017, I visited [Wensheng Dou](http://www.tcse.cn/~wsdou/) at the Institute of Software, Chinese Academy of Sciences (ISCAS), where we worked on lifting dependency structures on spreadsheets to higher-order functional programs over arrays.
+
 - I worked as TA for the Practical Concurrent and Parallel Programming Course at ITU in [Fall 2014](http://www.itu.dk/people/sestoft/itu/PCPP/E2014/), [Fall 2015](http://www.itu.dk/people/sestoft/itu/PCPP/E2015/) and [Fall 2017](http://itu.dk/people/rikj/PCPP2017/).
 
 - In summer semester 2016, I gave three lectures on parallel functional programming in Racket and Java 8 at UCAS for students without prior functional programming experience.  My lectures where part of a course on functional programming taught by [Yu ZHANG](http://lcs.ios.ac.cn/~yzhang).  Take a look at the [course material](https://github.com/fbie/parallel-functional-lectures).
 
 - I have written a small Emacs mode for systematic literature reviews on BibTex files called [SLIRM](https://github.com/fbie/slirm).
 
-- Read my thesis [Connected Set Filtering on Shared Memory Multicore Processors](https://itu.dk/people/fbie/thesis.pdf).
+- Read my master's thesis [Connected Set Filtering on Shared Memory Multicore Processors](https://itu.dk/people/fbie/thesis.pdf).
 
-- Read my project [Morphological Segmentation of Blood Images for Automated Malaria Diagnosis](https://itu.dk/people/fbie/morphological_segmentation_malaria.pdf).
+- Read my student project [Morphological Segmentation of Blood Images for Automated Malaria Diagnosis](https://itu.dk/people/fbie/morphological_segmentation_malaria.pdf).
 
 - I programmed the first version of the gaze-controller Lego construction manual for children.  It was featured on [CES 2015 in Las Vegas](https://www.youtube.com/watch?v=WgpbtsK7a88) and showcased in Lego stores in Copenhagen and Frankfurt.  See the [ITU research video](https://www.youtube.com/watch?v=vLMaMqkISR0).
 
@@ -45,6 +47,8 @@ The results of my PhD project do not only apply to spreadsheets but may be inter
 - Visit me on [GitHub](https://github.com/fbie) and [BitBucket](https://bitbucket.org/fbie).
 
 - Visit my [Orcid profile](http://orcid.org/0000-0002-5814-3202).
+
+- Visit me on [Twitter](https://twitter.com/florianbier), which I barely use.
 
 - Visit the [Bloop Website](http://dm.tzi.de/bloop/) and check out the video of the presentation at [BlenderCon 2011](https://www.youtube.com/watch?v=Uwm57iTytZs).
 
