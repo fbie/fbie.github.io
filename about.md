@@ -67,6 +67,9 @@ The results of my PhD project do not only apply to spreadsheets but may be inter
     ARRAY'17. [Preprint](https://pure.itu.dk/portal/files/82083562/array17_quad_ropes_camera_ready.pdf).
 
 
+-   **[Declarative Parallel Programming in Spreadsheet End-User Development](https://pure.itu.dk/portal/files/80807389/ITU_TR_2016_192.pdf)**. *Florian Biermann*.
+    Technical Report, 2016.
+
 -   **[Wrist-worn Pervasive Gaze Interaction](http://dx.doi.org/10.1145/2857491.2857514)**.
     John Paulin Hansen, Haakon Lund, *Florian Biermann* , Emilie Møllenbach, Sebastian Sztuk and Javier San Agustin.
     ETRA '16.
@@ -79,7 +82,7 @@ The results of my PhD project do not only apply to spreadsheets but may be inter
 
 -   **[A GazeWatch Pototype](http://dx.doi.org/10.1145/2786567.2792899)**.
     John Paulin Hansen, *Florian Biermann*, Emilie Møllenbach, Haakon Lund, Javier San Agustin, Sebastian Sztuk.
-    MobileHCI 15.
+    MobileHCI '15.
 
 
 -   **[The Animation Loop Station: Near Real-Time Animation Production](http://dx.doi.org/10.1007/978-3-642-33542-6_55)**.
