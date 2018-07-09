@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-My name is Florian Biermann and I studied [Digital Media](http://digitalmedia-bremen.de/en) at the [University of Bremen](http://uni-bremen.de/), Graphics Design at the [Art Institute of Boston at Lesley University](http://www.lesley.edu/college-art-and-design/) and Software Development and Technology at the [IT University of Copenhagen](https://itu.dk).  My Chinese name is 罗恩.
+My name is Florian Biermann I am about to graduate with a PhD in programming languages and parallel programming from the [IT University of Copenhagen](https://itu.dk).
 
-As of July 2015 I am working as a PhD student on spreadsheet array programming as part of the [Popular Parallel Programming project](https://itu.dk/people/sestoft/p3).  My supervisor is [Prof. Peter Sestoft](https://itu.dk/people/sestoft).  I am funded by the [Sino-Danish Center for Education and Research](http://sinodanishcenter.com).
+I have a masters in Software Development and Technology from the [IT University of Copenhagen](https://itu.dk), a bachelor of science in [Digital Media](http://digitalmedia-bremen.de/en) from the [University of Bremen](http://uni-bremen.de/) and studied Graphics Design at the [Art Institute of Boston at Lesley University](http://www.lesley.edu/college-art-and-design/) and .  My Chinese name is 罗恩.
+
+In August 2018, I will start as OCaml and C\# developer at SimCorp within IBOR.
+
+From July 2015 to June 2018 I was working as a PhD student on spreadsheet array programming as part of the [Popular Parallel Programming project](https://itu.dk/people/sestoft/p3).  My supervisor was [Prof. Peter Sestoft](https://itu.dk/people/sestoft).  I was funded by the [Sino-Danish Center for Education and Research](http://sinodanishcenter.com).
 
 Before that I have been working part-time as a programmer at [Medical Insight](http://www.medical-insight.com/) (now part of Karos Health) and in the [PitLab](http://pitlab.itu.dk/) at ITU as a research assistant for [Prof. John Paulin Hansen](https://www.linkedin.com/in/johnpaulinhansen) (who is now at DTU).
 
