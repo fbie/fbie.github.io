@@ -61,7 +61,7 @@ The results of my PhD project do not only apply to spreadsheets but may be inter
 
 ## Publications ##
 
--   **[Puncalc: Task-Based Parallelism and Speculative Reevaluation in Spreadsheets]()**. *Florian Biermann* and Alexander Asp Bock. To be presented at HLPP'18.
+-   **[Puncalc: Task-Based Parallelism and Speculative Reevaluation in Spreadsheets]()**. *Florian Biermann* and Alexander Asp Bock. To be presented at HLPP'18. [Preprint](files/hlpp18.pdf).
 
 
 -   **[Rewriting High-Level Spreadsheet Structures into Higher-Order Functional Programs](https://doi.org/10.1007/978-3-319-73305-0_2)**.
